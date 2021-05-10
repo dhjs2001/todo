@@ -1,0 +1,38 @@
+@charset "UTF-8";
+body{
+	text-align:center;
+}
+form{
+	color:gray;
+	width:50%;
+	margin:auto;
+}
+div{
+	text-align:left;
+}
+
+.job{
+	width:200px;
+}
+.who{
+	width:100px;
+}
+input[type="radio"]{
+	color:"black";
+}
+button{
+	background-color:white;
+	width:90px;
+	height:30px;
+	border:0;
+	outline:black solid 1px;
+	cursor:pointer;
+}
+.btn2{
+	background-color:#44cef7;
+	color:white;
+	outline:0;
+}
+.btn1{
+	vertical-align:top;
+}
